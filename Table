@@ -1,4 +1,9 @@
 public class Table{
 public static void main(String[] args){
+private int i=1,num=5;
+while(i<=10){
+system.out.println(i*5);
+i++;
+}
 }
 }
